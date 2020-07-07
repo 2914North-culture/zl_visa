@@ -1,0 +1,30 @@
+.myCarousels .shuffling{
+    max-width:100%;
+    overflow:hidden;
+}
+.myCarousels .shuffling .o{
+    width:1920px;
+    height:540px;
+    margin:0 auto;
+    /*left:50%;*/
+    /*transform:translateX(-50%);*/
+}
+.myCarousels .shuffling .t{
+    width:1920px;
+    height:540px;
+    margin:0 auto;
+    /*left:50%;*/
+    /*transform:translateX(-50%);*/
+}
+.myCarousels .shuffling .o img{
+    width:100%;
+    height:100%;
+    /*width:1920px;*/
+    /*height:540px;*/
+}
+.myCarousels .shuffling .t img{
+    width:100%;
+    height:100%;
+    /*width:1920px;*/
+    /*height:540px;*/
+}

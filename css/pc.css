@@ -1,0 +1,130 @@
+.header_right ul li:nth-last-child(1){
+    display:block;
+}
+.myCarousels .shuffling .o{
+    width:1920px;
+    height:540px;
+    /*margin-left:50%;*/
+    /*transform:translateX(-50%);*/
+}
+.myCarousels .shuffling .t{
+    width:1920px;
+    height:540px;
+    /*margin-left:50%;*/
+    /*transform:translateX(-50%);*/
+}
+.myCarousels .shuffling .o img{
+    width:100%;
+    height:100%;
+}
+.myCarousels .shuffling .t img{
+    width:100%;
+    height:100%;
+}
+.results .results_two{
+    /*border:solid 1px red;*/
+    padding:0 60px;
+    display:flex;
+    justify-content:center;
+    flex-wrap:nowrap;
+}
+.results .results_two>div{
+    /*border:solid 1px blue;*/
+    width:242.5px;
+}
+.results .results_two>div span{
+    display:block;
+    text-align:center;
+    margin-left:50%;
+    transform:translateX(-50%);
+    width:630px;
+}
+.results .results_two>div span:nth-of-type(1){
+    color: #0ba1e4;
+    font-size:70px;
+}
+.results .results_two>div span:nth-of-type(2){
+    font-size:18px;
+    font-weight:300;
+    color: #919191;
+    margin-top:10px;
+}
+
+.advantage .advantage_two{
+    /*border:solid 1px red;*/
+    /*padding:0 30px;*/
+    width:970px;
+    display:flex;
+    justify-content: space-between;
+}
+.advantage .advantage_two>div{
+    /*border:solid 1px blue;*/
+    width:213.5px;
+    height:260px;
+    padding:10px;
+    background-color:#ffffff;
+    border: 1px solid #c1c1c1;
+}
+.advantage .advantage_two>div span{
+    font-size:80px;
+    color: #0ba1e4;
+    margin-top:10px;
+    margin-bottom: 40px;
+}
+.advantage .advantage_two>div h3{
+    margin-top:20px;
+    margin-bottom: 15px;
+    font-weight:300;
+}
+.advantage .advantage_two>div span,h3,p{
+    display:block;
+    text-align:center;
+    margin-left:50%;
+    transform:translateX(-50%);
+    width:100%;
+}
+
+
+.service .service_two{
+    width:932px;
+}
+
+.encourage_two{
+    width:970px;
+}
+.encourage .encourage_one p{
+    font-size:19.5px;
+}
+
+
+.consulting .consulting_two{
+    width:970px;
+}
+.customer .customer_two{
+    width:969.96px;
+}
+
+.foot .foot_in{
+    width:970px;
+    margin-left:50%;
+    transform:translateX(-50%);
+}
+.foot .way{
+    border-right:2px solid #c1c1c1;
+}
+.foot .way span{
+    font-size:30px;
+    font-weight:300;
+}
+
+.foot .qr p span{
+    display:inline-block;
+}
+
+.foot .qr img{
+    width:132px;
+    height:132px;
+}
+.foot .qr p{
+    width:132px;
+}
